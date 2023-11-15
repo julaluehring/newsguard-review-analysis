@@ -1,0 +1,8 @@
+font.family:  sans-serif # APA requires sans-serif font
+figure.titleweight: bold # weight of the figure title
+axes.facecolor:  white   # figure background color
+axes.spines.top:    False # remove top axis (the "frame")
+axes.spines.right:  False # remove right axis (the "frame")
+axes.spines.bottom: True  # only display the x axis on the bottom
+axes.spines.left:   True  # only display the y axis on the left
+savefig.format:     png   # save as vector image by default
