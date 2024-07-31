@@ -1,0 +1,49 @@
+asttokens==2.4.1
+boto3==1.34.151
+botocore==1.34.151
+Bottleneck @ file:///croot/bottleneck_1709069899917/work
+contourpy==1.2.1
+cycler==0.12.1
+decorator==5.1.1
+executing==2.0.1
+factor_analyzer==0.5.1
+fonttools==4.53.1
+ipython==8.26.0
+jedi==0.19.1
+jmespath==1.0.1
+joblib==1.4.2
+kiwisolver==1.4.5
+matplotlib==3.9.1
+matplotlib-inline==0.1.7
+mkl-fft @ file:///work/perseverance-python-buildout/croot/mkl_fft_1698845673361/work
+mkl-random @ file:///work/perseverance-python-buildout/croot/mkl_random_1698845720894/work
+mkl-service==2.4.0
+numexpr @ file:///work/perseverance-python-buildout/croot/numexpr_1698871031164/work
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp312-cp312-linux_x86_64.whl#sha256=1d700f51d8b4fa684d858c9e3b56b1656bc5c82b6b79ff08d4e3b491c430059f
+packaging==24.1
+pandas @ file:///croot/pandas_1718308974269/work/dist/pandas-2.2.2-cp312-cp312-linux_x86_64.whl#sha256=92c518f7e09edd50b5caa5862636c51d6a29391803f3ada62f68aa52f27d8f92
+parso==0.8.4
+patsy==0.5.6
+pexpect==4.9.0
+pillow==10.4.0
+prompt_toolkit==3.0.47
+ptyprocess==0.7.0
+pure_eval==0.2.3
+Pygments==2.18.0
+pyparsing==3.1.2
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pytz @ file:///croot/pytz_1713974312559/work
+s3transfer==0.10.2
+scikit-learn==1.5.1
+scipy==1.14.0
+seaborn==0.13.2
+setuptools==69.5.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+stack-data==0.6.3
+statsmodels==0.14.2
+threadpoolctl==3.5.0
+traitlets==5.14.3
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3==2.2.2
+wcwidth==0.2.13
+wheel==0.43.0
