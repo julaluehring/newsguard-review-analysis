@@ -1,5 +1,8 @@
-# Scripts
-newsguard_exploration.ipynb
+# Data files
+*.csv
+
+# Flag emojis
+flags/
 
 # MacOS
 .DS_Store
