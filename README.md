@@ -1,6 +1,6 @@
 # newsguard-review-analysis
 
-Public repository for [Best practices for source-based research on misinformation and news trustworthiness]([link to paper](https://doi.org/10.31234/osf.io/v6e4b)
+Public repository for [Best practices for source-based research on misinformation and news trustworthiness](https://doi.org/10.31234/osf.io/v6e4b).
 
 We organized the subsections of our analysis in different Python notebooks. 
 To reproduce the results, see the following scripts: 
